@@ -6,7 +6,7 @@
 
 <h3 align="center">
 
-	🚧  APLICAÇÃO MOBILE PARA IOS RESTART CLONE...  🚧
+	🚧  APLICAÇÃO MOBILE PARA IPHONE RESTART CLONE...  🚧
 </h3>
 
 <h1 align="center">
